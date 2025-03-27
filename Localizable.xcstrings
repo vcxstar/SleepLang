@@ -1,5 +1,5 @@
 {
-  "sourceLanguage" : "en",
+  "sourceLanguage" : "zh-Hans",
   "strings" : {
     "" : {
 
@@ -18,7 +18,7 @@
     },
     "%@ - %@起床" : {
       "localizations" : {
-        "en" : {
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@ - %2$@起床"
@@ -28,7 +28,7 @@
     },
     "%@-%lld" : {
       "localizations" : {
-        "en" : {
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@-%2$lld"
@@ -47,7 +47,7 @@
     },
     "%lld点%@起床" : {
       "localizations" : {
-        "en" : {
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$lld点%2$@起床"
@@ -56,16 +56,44 @@
       }
     },
     "• 取消订阅后，相关功能可能无法继续使用，可能需要重新订阅以启用。" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 您可以在每个周期结束至少 24 小时前取消下个周期的订阅，每个周期结束 24小时内将会自动续订，已订阅的周期将无法取消。"
+          }
+        }
+      }
     },
     "• 您可以前往系统账户设置中修改自动订阅设置。" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 您可以前往系统账户设置中修改自动订阅设置。"
+          }
+        }
+      }
     },
     "• 您可以在每个周期结束至少 24 小时前取消下个周期的订阅，每个周期结束 24小时内将会自动续订，已订阅的周期将无法取消。" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 您可以在每个周期结束至少 24 小时前取消下个周期的订阅，每个周期结束 24小时内将会自动续订，已订阅的周期将无法取消。"
+          }
+        }
+      }
     },
     "• 确认购买后，将会从您的iTunes 帐户中收取费用。" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 确认购买后，将会从您的iTunes 帐户中收取费用。"
+          }
+        }
+      }
     },
     "=" : {
 
@@ -77,13 +105,34 @@
 
     },
     "8道题" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8道题"
+          }
+        }
+      }
     },
     "12道题" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12道题"
+          }
+        }
+      }
     },
     "16道题" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16道题"
+          }
+        }
+      }
     },
     "45" : {
 
@@ -275,7 +324,14 @@
 
     },
     "本次休息了%lld分钟" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本次休息了%lld分钟"
+          }
+        }
+      }
     },
     "查看" : {
 
